@@ -90,6 +90,11 @@ author {
   color: #777777;
 }
 
+.highlight {
+    color: #ff6767;
+    font-weight: bold;
+}
+
 tr.space>td {
   padding-top: 4px;
   padding-bottom: 15px;
