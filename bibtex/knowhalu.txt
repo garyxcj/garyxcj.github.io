@@ -1,0 +1,6 @@
+@article{zhang2024knowhalu,
+  title={KnowHalu: Hallucination Detection via Multi-Form Knowledge Based Factual Checking},
+  author={Zhang, Jiawei and Xu, Chejian and Gai, Yu and Lecue, Freddy and Song, Dawn and Li, Bo},
+  journal={arXiv preprint arXiv:2404.02935},
+  year={2024}
+}

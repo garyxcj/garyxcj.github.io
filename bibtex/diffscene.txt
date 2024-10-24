@@ -1,0 +1,6 @@
+@inproceedings{xu2023diffscene,
+  title={Diffscene: Diffusion-based safety-critical scenario generation for autonomous vehicles},
+  author={Xu, Chejian and Zhao, Ding and Sangiovanni-Vincentelli, Alberto and Li, Bo},
+  booktitle={The Second Workshop on New Frontiers in Adversarial Machine Learning},
+  year={2023}
+}

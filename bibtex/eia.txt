@@ -1,0 +1,6 @@
+@article{liao2024eia,
+  title={EIA: Environmental Injection Attack on Generalist Web Agents for Privacy Leakage},
+  author={Liao, Zeyi and Mo, Lingbo and Xu, Chejian and Kang, Mintong and Zhang, Jiawei and Xiao, Chaowei and Tian, Yuan and Li, Bo and Sun, Huan},
+  journal={arXiv preprint arXiv:2409.11295},
+  year={2024}
+}

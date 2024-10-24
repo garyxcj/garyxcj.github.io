@@ -1,0 +1,7 @@
+@inproceedings{zhang2024chatscene,
+  title={ChatScene: Knowledge-Enabled Safety-Critical Scenario Generation for Autonomous Vehicles},
+  author={Zhang, Jiawei and Xu, Chejian and Li, Bo},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={15459--15469},
+  year={2024}
+}

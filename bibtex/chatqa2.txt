@@ -1,0 +1,6 @@
+@article{xu2024chatqa,
+  title={Chatqa 2: Bridging the gap to proprietary llms in long context and rag capabilities},
+  author={Xu, Peng and Ping, Wei and Wu, Xianchao and Xu, Chejian and Liu, Zihan and Shoeybi, Mohammad and Catanzaro, Bryan},
+  journal={arXiv preprint arXiv:2407.14482},
+  year={2024}
+}
