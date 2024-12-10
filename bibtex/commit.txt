@@ -1,0 +1,6 @@
+@article{huang2024commit,
+  title={COMMIT: Certifying Robustness of Multi-Sensor Fusion Systems against Semantic Attacks},
+  author={Huang, Zijian and Chu, Wenda and Li, Linyi and Xu, Chejian and Li, Bo},
+  journal={arXiv preprint arXiv:2403.02329},
+  year={2024}
+}
