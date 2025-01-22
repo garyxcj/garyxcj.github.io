@@ -1,0 +1,6 @@
+@article{kang2024advwave,
+  title={AdvWave: Stealthy Adversarial Jailbreak Attack against Large Audio-Language Models},
+  author={Kang, Mintong and Xu, Chejian and Li, Bo},
+  journal={arXiv preprint arXiv:2412.08608},
+  year={2024}
+}
