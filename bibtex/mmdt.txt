@@ -1,0 +1,5 @@
+@inproceedings{xummdt,
+  title={MMDT: Decoding the Trustworthiness and Safety of Multimodal Foundation Models},
+  author={Xu, Chejian and Zhang, Jiawei and Chen, Zhaorun and Xie, Chulin and Kang, Mintong and Yuan, Zhuowen and Xiong, Zidi and Zhang, Chenhui and Yuan, Lingzhi and Zeng, Yi and others},
+  booktitle={The Thirteenth International Conference on Learning Representations}
+}
