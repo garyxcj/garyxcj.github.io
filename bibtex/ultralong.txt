@@ -1,0 +1,6 @@
+@article{xu2025128k,
+  title={From 128K to 4M: Efficient Training of Ultra-Long Context Large Language Models},
+  author={Xu, Chejian and Ping, Wei and Xu, Peng and Liu, Zihan and Wang, Boxin and Shoeybi, Mohammad and Li, Bo and Catanzaro, Bryan},
+  journal={arXiv preprint arXiv:2504.06214},
+  year={2025}
+}
