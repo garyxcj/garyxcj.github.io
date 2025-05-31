@@ -1,5 +1,5 @@
-@article{xu2024advweb,
-  title={AdvWeb: Controllable Black-box Attacks on VLM-powered Web Agents},
+@article{xu2024advagent,
+  title={AdvAgent: Controllable Blackbox Red-teaming on Web Agents},
   author={Xu, Chejian and Kang, Mintong and Zhang, Jiawei and Liao, Zeyi and Mo, Lingbo and Yuan, Mengqi and Sun, Huan and Li, Bo},
   journal={arXiv preprint arXiv:2410.17401},
   year={2024}
