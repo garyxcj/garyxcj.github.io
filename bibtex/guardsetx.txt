@@ -1,0 +1,6 @@
+@article{kang2025guardset,
+  title={Guardset-x: Massive multi-domain safety policy-grounded guardrail dataset},
+  author={Kang, Mintong and Chen, Zhaorun and Xu, Chejian and Zhang, Jiawei and Guo, Chengquan and Pan, Minzhou and Revilla, Ivan and Sun, Yu and Li, Bo},
+  journal={arXiv preprint arXiv:2506.19054},
+  year={2025}
+}
