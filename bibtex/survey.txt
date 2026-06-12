@@ -1,6 +1,0 @@
-@article{ding2022survey,
-  title={A Survey on Safety-critical Scenario Generation from Methodological Perspective},
-  author={Ding, Wenhao and Xu, Chejian and Lin, Haohong and Li, Bo and Zhao, Ding},
-  journal={arXiv preprint arXiv:2202.02215},
-  year={2022}
-}

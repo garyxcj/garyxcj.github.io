@@ -1,6 +1,0 @@
-@article{liu2022copy,
-  title={Copy Motion From One to Another: Fake Motion Video Generation},
-  author={Liu, Zhenguang and Wu, Sifan and Xu, Chejian and Wang, Xiang and Zhu, Lei and Wu, Shuang and Feng, Fuli},
-  journal={arXiv preprint arXiv:2205.01373},
-  year={2022}
-}
